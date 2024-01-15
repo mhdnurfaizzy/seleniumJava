@@ -31,6 +31,7 @@ public class selenium {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
 //		driver.close();
+//test
 
 		driver.quit();
 	
