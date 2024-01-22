@@ -13,7 +13,6 @@ public class Dropdown {
 		
 		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
 		driver.findElement(By.id("ctl00_mainContent_ddl_originStation1_CTXT")).click();
-
 		driver.findElement(By.cssSelector("a[value='MAA']")).click();
 
 		Thread.sleep(2000);
