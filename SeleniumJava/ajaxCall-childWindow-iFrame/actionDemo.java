@@ -20,7 +20,7 @@ public class actionDemo {
 		a.moveToElement(move).contextClick().build().perform();
 		a.moveToElement(driver.findElement(By.xpath("//button[@class='mi-btn mi-btn--icon mi-btn--normal mi-btn--light navigation__link']"))).click().keyDown(Keys.SHIFT).sendKeys("Redmi").doubleClick().build().perform();
 
-		//
+		//test
 	}
 
 }
