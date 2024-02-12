@@ -16,6 +16,7 @@
 	<classpathentry kind="src" path="realTimeExerciseE2e"/>
 	<classpathentry kind="src" path="practicalProblemAndHowToHandle"/>
 	<classpathentry kind="src" path="MiscellanouseTopics"/>
+	<classpathentry kind="src" path="javaStream"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
